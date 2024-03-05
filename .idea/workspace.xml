@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3e1e1e9-bc03-4095-a828-501959815a48" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/1.Fly me to the Alpha Centauri/Fly me to the Alpha Centauri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/1.Fly me to the Alpha Centauri/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/10.영화감독 숌/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/10.영화감독 숌/영화감독 숌.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/11.다리 놓기/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/11.다리 놓기/다리 놓기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/12.블랙잭/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/12.블랙잭/블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/13.분해합/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/13.분해합/분해합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/14.잃어버린 괄호/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/14.잃어버린 괄호/잃어버린 괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/15.동전 0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/15.동전 0/동전 0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/16.ATM/ATM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/16.ATM/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/17.계단 오르기/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/17.계단 오르기/계단 오르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/18.신나는 함수 실행/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/18.신나는 함수 실행/신나는 함수 실행.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/19.파도반 수열/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/19.파도반 수열/파도반 수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/2.터렛/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/2.터렛/터렛.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/20.RGB 거리/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/20.RGB 거리/RGB거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/21.정수 삼각형/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/21.정수 삼각형/정수 삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/22.가장 긴 증가하는 부분 수열/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/22.가장 긴 증가하는 부분 수열/가장 긴 증가하는 부분 수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/23.평범한 배낭/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/23.평범한 배낭/평범한 배낭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/24.하노이 탑 이동 순서/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/24.하노이 탑 이동 순서/하노이 탑 이동 순서.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/3.괄호/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/3.괄호/괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/3.괄호/잃어버린 괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/4.균형잡힌 세상/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/4.균형잡힌 세상/균형잡힌 세상.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/5.스택 수열/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/5.스택 수열/스택 수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/6.회전하는 큐/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/6.회전하는 큐/회전하는 큐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/7.요세푸스 문제0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/7.요세푸스 문제0/요세푸스 문제 0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/8.최대 힙/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/8.최대 힙/최대 힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/9.최소 힙/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/adv/9.최소 힙/최소 힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Bronze/2231. 분해합/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/2231. 분해합/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Bronze/2798. 블랙잭/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/2798. 블랙잭/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Gold/1011. Fly me to the Alpha Centauri/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Gold/1011. Fly me to the Alpha Centauri/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Gold/11729. 하노이 탑 이동 순서/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Gold/11729. 하노이 탑 이동 순서/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Gold/12015. 가장 긴 증가하는 부분 수열 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Gold/12015. 가장 긴 증가하는 부분 수열 2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Gold/12865. 평범한 배낭/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Gold/12865. 평범한 배낭/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Gold/1300. K번째 수/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Gold/1300. K번째 수/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Gold/2110. 공유기 설치/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Gold/2110. 공유기 설치/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1002. 터렛/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1002. 터렛/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1010. 다리 놓기/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1010. 다리 놓기/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1021. 회전하는 큐/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1021. 회전하는 큐/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/11047. 동전 0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/11047. 동전 0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/11053. 가장 긴 증가하는 부분 수열/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/11053. 가장 긴 증가하는 부분 수열/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/11279. 최대 힙/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/11279. 최대 힙/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/11399. ATM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/11399. ATM/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1149. RGB거리/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1149. RGB거리/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/11651. 좌표 정렬하기 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/11651. 좌표 정렬하기 2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/11866. 요세푸스 문제 0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/11866. 요세푸스 문제 0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1436. 영화감독 숌/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1436. 영화감독 숌/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1541. 잃어버린 괄호/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1541. 잃어버린 괄호/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1874. 스택 수열/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1874. 스택 수열/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1927. 최소 힙/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1927. 최소 힙/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/1932. 정수 삼각형/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/1932. 정수 삼각형/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/2108. 통계학/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/2108. 통계학/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/2579. 계단 오르기/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/2579. 계단 오르기/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/2805. 나무 자르기/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/2805. 나무 자르기/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/4949. 균형잡힌 세상/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/4949. 균형잡힌 세상/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/9012. 괄호/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/9012. 괄호/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/9184. 신나는 함수 실행/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/9184. 신나는 함수 실행/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Silver/9461. 파도반 수열/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Silver/9461. 파도반 수열/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dGYo6LGyUd0vdcVWjEL0tCV1Td" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\hhdev_study" />
+      <recent name="C:\Users\USER\Desktop\hhdev_study\Week_1\basic" />
+      <recent name="C:\Users\USER\Desktop\hhdev_study\Week_1\43.크기가 작은 부분" />
+      <recent name="C:\Users\USER\Desktop\hhdev_study\Week_1\42.삼총사" />
+      <recent name="C:\Users\USER\Desktop\hhdev_study\Week_1\41.이상한 문자 만들기" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e1e1e9-bc03-4095-a828-501959815a48" name="Changes" comment="" />
+      <created>1709636054809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709636054809</updated>
+    </task>
+    <servers />
+  </component>
+</project>
